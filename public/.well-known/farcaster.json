@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "EngageChain",
+    "subtitle": "Built with Zara",
+    "description": "EngageChain is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://644cfdef4dbd465a8ea1d3118370080c-kyd7.vercel.app",
+    "splashImageUrl": "https://644cfdef4dbd465a8ea1d3118370080c-kyd7.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://644cfdef4dbd465a8ea1d3118370080c-kyd7.vercel.app/image.png",
+    "tagline": "EngageChain",
+    "screenshotUrls": [
+      "https://644cfdef4dbd465a8ea1d3118370080c-kyd7.vercel.app/screenshot.png",
+      "https://644cfdef4dbd465a8ea1d3118370080c-kyd7.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://644cfdef4dbd465a8ea1d3118370080c-kyd7.vercel.app/api/webhook"
+  }
+}
